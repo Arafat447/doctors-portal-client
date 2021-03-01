@@ -1,0 +1,25 @@
+.info-primary {
+    background-color: #1CC7C1;
+}
+.info-dark {
+    background-color: #3A4256;
+}
+.info-icon {
+    font-size: 3em;
+    margin-right: 10px;
+}
+.info-container {
+    padding: 20px
+}
+.feature-img {
+    padding:0 !important;
+}
+.feature-content {
+    padding:0 !important;
+}
+.feature-container {
+    margin: 40px 0px;
+}
+.feature-text {
+    line-height: 23px !important;
+}

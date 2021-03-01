@@ -1,0 +1,43 @@
+.footer-bg {
+    background-image: url("https://i.ibb.co/QQ4gXw9/footer-bg.png");
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.footer-container {
+    padding: 50px;
+}
+.footer-container ul {
+    list-style-type: none;
+}
+.footer-container a {
+    text-decoration: none;
+    color:#3E465A;
+    font-size: 15px;
+    transition: 0.2s all ease-in-out;
+    padding-top:10px !important;
+    display: block;
+}
+.footer-container a:hover{
+    text-decoration: none;
+    color: #12bebc;
+}
+.footer-container h5 {
+    margin-left: 30px;
+    color:#12bebc;
+}
+.social-media li{
+    float:left;
+}
+.media-icon{
+    height:50px !important;
+    width:50px !important;
+    color:#12bebc;
+    border: 1px solid #12bebc;
+    border-radius: 50%;
+    padding:10px;
+}
+.media-icon:hover {
+    color:#fff;
+    background-color: #12bebc;
+}

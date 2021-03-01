@@ -1,0 +1,21 @@
+.header-container {
+    height: 800px;
+    position: relative;
+    background-image: url('../../../images/chair-bg.png');
+    background-size: cover;
+    background-position: center;
+}
+.header-container::after{
+    position: absolute;
+    content:'';
+    top:0;
+    right:0;
+    height:700px;
+    width: 30%;
+    background-color: #3A4256;
+    z-index: -2;
+}
+.btn-custom {
+    background: linear-gradient(75deg, #19D3AE,#0fcfec);
+    font-weight: 500;
+}
